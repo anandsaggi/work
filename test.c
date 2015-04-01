@@ -1,1 +1,1 @@
-Branch 2 Patch
+This line is added from master
