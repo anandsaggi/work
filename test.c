@@ -1,1 +1,1 @@
-This line is added from branch2
+This line is added from master
